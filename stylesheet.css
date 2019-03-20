@@ -83,6 +83,15 @@ body {
   opacity: 0.5;
 }
 
+.aboutimage {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+}
+
+/*========== Footer Section ==========*/
+
 #footer {
   background-color: #5c755e;
   margin: 10px;
@@ -143,4 +152,10 @@ h3 {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%)
+}
+
+h4 {
+  font-size: 300%;
+  text-align: center;
+  color: rgb(25, 0, 255);
 }
